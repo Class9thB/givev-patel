@@ -1,0 +1,17 @@
+.img11{
+    height: 80vh;
+    width: 95vw;
+    margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+    display: flex;
+ 
+}
+@media screen and (min-width: 900px) {
+    .img11{
+        height: 100vh;
+        width: 50vw;
+       
+     
+    }
+  }
